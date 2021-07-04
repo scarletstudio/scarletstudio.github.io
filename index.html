@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Scarlet Data Studio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" type="image/x-icon" href="favicon.ico" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="assets/css/reset.css" />
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+</head>
+<body>
+  <header class="header">
+    <a href="#home">
+      <img src="assets/img/logo.png" class="logo" alt="Logo" />
+    </a>
+    <nav>
+      <a href="#portfolio">Portfolio</a>
+      <a href="#about">About</a>
+      <a href="#team">Team</a>
+    </nav>
+  </header>
+  <div class="page">
+    <section class="section transparent splash">
+      <div class="narrow center">
+        <h1 class="title">Scarlet Data Studio</h1>
+        <p>We are a team of software engineers learning and building for our community with data.</p>
+      </div>
+    </section>
+    <section class="section red">
+      <h2 id="portfolio" class="center">Portfolio</h2>
+      <div class="narrow center">
+        <p>We build machine learning models, ETL pipelines, RESTful APIs, and full-stack web applications.</p>
+      </div>
+      <div class="columns wide">
+        <div class="column half">
+          <div class="preview">
+            <img src="assets/img/haxml.png" alt="Screenshot of the HaxML website." />
+          </div>
+        </div>
+        <div class="column half">
+          <div class="project">
+            <h3>HaxML</h3>
+            <p>Predict expected goals (XG) in an online soccer game with machine learning.</p>
+            <p>
+              <a class="button secondary" href="https://vingkan.github.io/haxclass/hub">Visit Site</a>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="columns wide">
+        <div class="column half">
+          <div class="preview">
+            <img src="assets/img/transithealth.png" alt="Screenshot of the TransitHealth website." />
+          </div>
+        </div>
+        <div class="column half">
+          <div class="project">
+            <h3>TransitHealth</h3>
+            <p>Help Chicago residents explore open data about public transit and public health.</p>
+            <p>
+              <a class="button secondary" href="https://scarletstudio.github.io/transithealth">Visit Site</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="section transparent">
+      <h2 id="#about" class="center">About</h2>
+      <div class="narrow">
+        <p>We host paid internships to help underrepresented students in our community grow as software engineers.</p>
+        <br />
+        <p>Our mentors are professional software engineers who help interns build and deploy challenging projects.</p>
+      </div>
+    </section>
+    <section class="section red">
+      <h2 id="#team" class="center">Team</h2>
+      <div class="narrow center">
+        <p>Coming soon: Meet our team members, past and present!</p>
+      </div>
+    </section>
+    <section class="section transparent splash">
+      <div class="narrow center">
+        <p>Thanks for visiting us.</p>
+      </div>
+    </section>
+  </div>
+  <video autoplay muted loop poster="assets/img/coding.png" class="background">
+    <source src="assets/vid/coding.mp4" type="video/mp4" />
+  </video>
+  <script type="text/javascript">
+    
+    const video = document.querySelector('video');
+    video.playbackRate = 8;
+
+  </script>
+</body>
+</html>

@@ -1,2 +1,3 @@
-# scarletstudio.github.io
-Website for Scarlet Data Studio.
+# Scarlet Data Studio Website
+
+Website for Scarlet Data Studio hosted on GitHub Pages.

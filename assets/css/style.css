@@ -1,0 +1,236 @@
+/* Scrollbar */
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: black;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(204, 0, 1, 0.75);
+  cursor: pointer;
+}
+
+/* Typography */
+
+html {
+  font-family: 'Inconsolata', monospace;
+  background: black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  line-height: 1.5em;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+h2 {
+  font-size: 3.5em;
+}
+
+h3 {
+  font-size: 2.5em;
+}
+
+p {
+  font-size: 1.5em;
+  line-height: 1.5em;
+}
+
+a, a:visited {
+  text-decoration: none;
+}
+
+.title {
+  line-height: 1em;
+  margin-bottom: 0.5em;
+}
+
+.center {
+  text-align: center;
+}
+
+/* Background and Page */
+
+.background {
+  z-index: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  opacity: 0.75;
+}
+
+.page {
+  z-index: 1;
+  position: relative;
+  padding-top: 75px;
+  min-width: 100%;
+  min-height: 100vh;
+  background: rgba(0, 0, 0, 0.5);
+  font-size: 15px;
+}
+
+/* Header */
+
+.header {
+  z-index: 2;
+  position: fixed;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  background: rgba(0, 0, 0, 0.75);
+  display: flex;
+  justify-content: space-between;
+}
+
+.header .logo, .header nav {
+  height: 75px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.header .logo {
+  opacity: 0.75;
+}
+
+.header .logo:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.header nav {
+  padding-right: 1em;
+  overflow: hidden;
+  text-align: right;
+}
+
+.header nav a, .header nav a:visited {
+  color: white;
+  text-decoration: none;
+  font-size: 1.5em;
+  line-height: 75px;
+  margin: 0 0.5em;
+}
+
+.header nav a:hover {
+  color: rgb(204, 0, 1);
+}
+
+/* Layout */
+
+.section {
+  max-width: 100%;
+  padding: 4em 2em;
+}
+
+.splash {
+  padding: 25vh 0;
+}
+
+.narrow {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 600px) {
+
+  .narrow {
+    max-width: 90%;
+  }
+
+}
+
+.wide {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 960px) {
+
+  .wide {
+    max-width: 90%;
+  }
+
+}
+
+.columns {
+  font-size: 0;
+}
+
+.columns .column {
+  display: inline-block;
+  vertical-align: middle;
+  width: 48%;
+  padding: 1%;
+  font-size: 15px;
+}
+
+@media screen and (max-width: 600px) {
+
+  .columns .column {
+    width: 100%;
+  }
+
+  .preview img {
+    width: 100%
+  }
+
+  .project {
+    text-align: center;
+  }
+
+}
+
+.preview {
+  margin: 2em auto;
+  width: 100%;
+  text-align: center;
+}
+
+.preview img {
+  display: inline-block;
+  width: 90%;
+}
+
+/* Landing Page */
+
+.transparent {
+  color: white;
+}
+
+.red {
+  background: rgba(204, 0, 1, 0.75);
+  color: white;
+}
+
+/* Forms */
+
+.button {
+  display: inline-block;
+}
+
+.secondary {
+  margin: 0.5em 0;
+  padding: 0.25em 0.5em;
+  border-radius: 5px;
+  border: 1px solid white;
+  color: white;
+}
+
+.secondary:hover {
+  background: white;
+  color: rgba(204, 0, 1, 1);
+  font-weight: bold;
+}
