@@ -1,0 +1,108 @@
+- term: Summer 2021
+  project: TransitHealth
+  groups:
+    - members:
+      - name: Shahzia Perveen
+        role: Intern
+        github: sperveen4
+        linkedin: shahzia-perveen
+
+      - name: William Javier
+        role: Intern
+        github: wpj0110
+
+      - name: Andrew Tolentino
+        role: Mentor
+        github: Andrew-Tolentino
+        linkedin: andrew-tolentino-299ba1140
+
+    - members:
+      - name: Leilah Alkatout
+        role: Intern
+        github: alkatoutl
+        linkedin: leilah-alkatout-91892117a
+
+      - name: Tabor Alemu
+        role: Intern
+        github: talemu
+
+      - name: Divya Soopal
+        role: Mentor
+        github: divyashie
+        linkedin: bhoj-rani-soopal
+
+    - members:
+      - name: Anna Shklover
+        role: Intern
+        github: ashklover
+
+      - name: Camilo Cortes
+        role: Intern
+        github: camilo-cortes
+        linkedin: camiloacortes
+
+      - name: Rachael Brooks
+        role: Mentor
+        github: rbrooks6
+        linkedin: rbrooks6
+
+    - members:
+      - name: Fabian Abrego
+        role: Intern
+        github: fabrego524
+        linkedin: fabianabrego
+
+      - name: Maria Garcia
+        role: Intern
+        github: MariaGarciaCS
+        linkedin: mariagarcia-cs
+
+      - name: Vinesh Kannan
+        role: Mentor
+        photo: vingkan.jpg
+        github: vingkan
+        linkedin: vineshkannan
+
+    - members:
+      - name: Jacqueline Macias
+        role: Intern
+        github: Jmacias2019
+        linkedin: jacqueline-macias-736bb9140
+
+      - name: Aleksandra Kukielko
+        role: Mentor
+        github: olakukielko
+        linkedin: akukielk
+
+    - members:
+      - name: Asude Ozturk
+        role: Intern
+        github: asudeozturk
+
+      - name: Morgan Peters
+        role: Mentor
+        github: morleegan
+        linkedin: morleegan
+
+- term: Winter 2020
+  project: HaxML
+  groups:
+    - members:
+      - name: Edwin Zamudio
+        role: Intern
+        photo: notedwin.jpeg
+        github: notedwin
+        linkedin: edwin-zamudio
+
+      - name: Lynn Matar
+        role: Intern
+        photo: lmatar.jpeg
+        github: lmatar
+        linkedin: lynnmatar
+        blog: https://lmatar.github.io/haxblog
+
+      - name: Vinesh Kannan
+        role: Mentor
+        photo: vingkan.jpg
+        github: vingkan
+        linkedin: vineshkannan

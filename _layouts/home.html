@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" href="./favicon.ico" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="assets/css/reset.css" />
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+  <script src="https://kit.fontawesome.com/0f5aabdc14.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <header class="header">
+    <a href="#home">
+      <img src="assets/img/logo.png" class="logo" alt="Logo" />
+    </a>
+    <nav>
+      <a href="#portfolio">Portfolio</a>
+      <a href="#about">About</a>
+      <a href="#team">Team</a>
+    </nav>
+  </header>
+  <div class="page">
+    <section class="section transparent splash">
+      <div class="narrow center">
+        <h1 id="home" class="title">Scarlet Data Studio</h1>
+        <p>We are a team of software engineers learning and building for our community with data.</p>
+      </div>
+    </section>
+    <section class="section red">
+      <h2 id="portfolio" class="center">Portfolio</h2>
+      <div class="narrow center">
+        <p>We build machine learning models, ETL pipelines, RESTful APIs, and full-stack web applications.</p>
+      </div>
+      <div class="columns wide">
+        <div class="column half">
+          <div class="preview">
+            <img src="assets/img/haxml.png" alt="Screenshot of the HaxML website." />
+          </div>
+        </div>
+        <div class="column half">
+          <div class="project">
+            <h3>HaxML</h3>
+            <p>Predict expected goals (XG) in an online soccer game with machine learning.</p>
+            <p>
+              <a class="button secondary" href="https://vingkan.github.io/haxclass/hub" target="_blank">
+                <span>Visit Site</span>
+              </a>
+              <a class="button tertiary" href="https://github.com/vingkan/haxml" target="_blank">
+                <i class="fab fa-github"></i>
+                <span>GitHub Repo</span>
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="columns wide">
+        <div class="column half">
+          <div class="preview">
+            <img src="assets/img/transithealth.png" alt="Screenshot of the TransitHealth website." />
+          </div>
+        </div>
+        <div class="column half">
+          <div class="project">
+            <h3>TransitHealth</h3>
+            <p>Help Chicago residents explore open data about public transit and public health.</p>
+            <p>
+              <a class="button secondary" href="https://scarletstudio.github.io/transithealth" target="_blank">
+                <span>Visit Site</span>
+              </a>
+              <a class="button tertiary" href="https://github.com/scarletstudio/transithealth" target="_blank">
+                <i class="fab fa-github"></i>
+                <span>GitHub Repo</span>
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="section transparent">
+      <h2 id="about" class="center">About</h2>
+      <div class="narrow">
+        <p>We host paid internships to help underrepresented students in our community grow as software engineers.</p>
+        <br />
+        <p>Our mentors are professional software engineers who help interns build and deploy challenging projects.</p>
+      </div>
+    </section>
+    <section class="section red">
+      <h2 class="center">Engineering</h2>
+      <div class="narrow">
+        <h3>Purposeful Products</h3>
+        <p>We build products for our community, so that developers can practice making decisions based on why, not just what.</p>
+        <p>Every intern makes a meaningful contribution that gets deployed into production.</p>
+        <h3>Mentorship</h3>
+        <p>Each intern works with a mentor who helps them scope their projects, overcome blockers, and identify stretch opportunities to grow as a developer.</p>
+        <p>
+          <a class="button secondary" href="https://bit.ly/sds-mentor-handbook-s21" target="_blank">
+            <i class="fas fa-hands-helping"></i>
+            <span>Mentor Handbook</span>
+          </a>
+        <p>
+        <h3>Professional Skills</h3>
+        <p>Our interns practice skills for building software in teams:</p>
+        <ul>
+          <li>Using the command line</li>
+          <li>Pair programming</li>
+          <li>Understanding a new codebase</li>
+          <li>Splitting work into smaller pull requests</li>
+          <li>Participating in code reviews</li>
+          <li>Resolving merge conflicts</li>
+          <li>Technical writing</li>
+        </ul>
+        <h3>Career Growth</h3>
+        <p>We help interns find their next job and grow their self-efficacy.</p>
+        <p>Our mentors practice the behaviors of engineers who support and multiply the impact of their teams.</p>
+      </div>
+    </section>
+    <section class="section dark">
+      <h2 id="team" class="center">Team</h2>
+      <div class="narrow center">
+        <p>Meet our team members and check out their work!</p>
+        <br />
+      </div>
+      <div class="team">
+        {% for cohort in site.data.members %}
+        <div class="cohort">
+          <h3>{{ cohort.term }}</h3>
+          <h4>{{ cohort.project }}</h4>
+          {% for group in cohort.groups %}
+          <div class="members">
+            {% for member in group.members %}
+            <div class="member">
+              <div class="profile">
+                <img
+                  class="photo"
+                  src="assets/photo/{{ member.photo | default: 'default.png' }}"
+                  alt="Photo of {{ member.name }}"
+                />
+              </div>
+              <div class="details">
+                <h5 class="name">{{ member.name }}</h5>
+                <div class="info">
+                  <span class="role">{{ member.role }}</span>
+                  <span class="links">
+                    {% if member.blog %}
+                    <a href="{{ member.blog }}" target="_blank">
+                      <div class="tooltip">
+                        <i class="fas fa-book-reader"></i>
+                        <span class="label">Read About My Project</span>
+                      </div>
+                    </a>
+                    {% endif %}
+                    {% if member.github %}
+                    <a href="https://github.com/{{ member.github }}" target="_blank">
+                      <div class="tooltip">
+                        <i class="fab fa-github"></i>
+                        <span class="label">Visit My GitHub</span>
+                      </div>
+                    </a>
+                    {% endif %}
+                    {% if member.linkedin %}
+                    <a href="https://linkedin.com/in/{{ member.linkedin }}" target="_blank">
+                      <div class="tooltip">
+                        <i class="fab fa-linkedin"></i>
+                        <span class="label">Visit My LinkedIn</span>
+                      </div>
+                    </a>
+                    {% endif %}
+                  </span>
+                </div>
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+          {% endfor %}
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+    <section class="section red">
+      <div class="narrow center">
+        <p>Scarlet Data Studio will return in Summer 2022.</p>
+      </div>
+    </section>
+    <section class="section transparent splash">
+      <div class="narrow center">
+        <p>Thanks for visiting us.</p>
+      </div>
+    </section>
+  </div>
+  <video autoplay muted loop poster="assets/img/coding.png" class="background">
+    <source src="assets/vid/coding.mp4" type="video/mp4" />
+  </video>
+  <script type="text/javascript">
+    
+    const video = document.querySelector('video');
+    video.playbackRate = 8;
+
+  </script>
+</body>
+</html>
