@@ -40,7 +40,7 @@
         <div class="column half">
           <div class="preview">
             <img
-              src="assets/project/{{ project.image }}"
+              src="assets/{{ project.image }}"
               alt="Screenshot of the {{ project.name }} website."
             />
           </div>
@@ -119,7 +119,7 @@
               <div class="profile">
                 <img
                   class="photo"
-                  src="assets/photo/{{ member.photo | default: 'default.png' }}"
+                  src="assets/{{ member.photo | default: 'member/default.png' }}"
                   alt="Photo of {{ member.name }}"
                 />
               </div>

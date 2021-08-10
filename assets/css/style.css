@@ -316,19 +316,32 @@ a, a:visited {
   text-align: left;
 }
 
-.team .member .profile {
-  width: 85px;
-  margin-right: 1em;
-}
-
 .team .member .details {
   width: 180px;
 }
 
-.team .member .photo {
-  width: 100%;
+/* https://stackoverflow.com/a/18674144 */
+
+.team .member .profile {
+  width: 85px;
+  height: 85px;
   border-radius: 50%;
+  overflow: hidden;
+  margin-right: 1em;
   margin-bottom: 0.5em;
+  position: relative;
+}
+
+.team .member .photo {
+  position: absolute;
+  margin: auto;
+  top: -1000%;
+  bottom: -1000%;
+  left: -1000%;
+  right: -1000%;
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
 }
 
 .team .member .name {
@@ -409,7 +422,9 @@ a, a:visited {
 
   .team .member .profile {
     width: 100px;
+    height: 100px;
     margin: 0 auto;
+    margin-bottom: 1em;
   }
 
 }

@@ -1,11 +1,11 @@
 - name: HaxML
   description: Predict expected goals (XG) in an online soccer game with machine learning.
-  image: haxml.png
+  image: project/haxml.png
   link: https://vingkan.github.io/haxclass/hub
   github: https://github.com/vingkan/haxml
 
 - name: TransitHealth
   description: Help Chicago residents explore open data about public transit and public health.
-  image: transithealth.png
+  image: project/transithealth.png
   link: https://scarletstudio.github.io/transithealth
   github: https://github.com/scarletstudio/transithealth

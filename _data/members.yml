@@ -19,6 +19,7 @@
     - members:
       - name: Leilah Alkatout
         role: Intern
+        photo: member/alkatoutl.jpg
         github: alkatoutl
         linkedin: leilah-alkatout-91892117a
 
@@ -49,17 +50,20 @@
     - members:
       - name: Fabian Abrego
         role: Intern
+        photo: member/fabrego.jpeg
         github: fabrego524
         linkedin: fabianabrego
+        blog: https://fabrego524.github.io/PersonalWebsite/Blog
 
       - name: Maria Garcia
         role: Intern
+        photo: member/mariagarciacs.jpg
         github: MariaGarciaCS
         linkedin: mariagarcia-cs
 
       - name: Vinesh Kannan
         role: Mentor
-        photo: vingkan.jpg
+        photo: member/vingkan.jpg
         github: vingkan
         linkedin: vineshkannan
 
@@ -90,19 +94,20 @@
     - members:
       - name: Edwin Zamudio
         role: Intern
-        photo: notedwin.jpeg
+        photo: member/notedwin.jpeg
         github: notedwin
         linkedin: edwin-zamudio
+        blog: https://main.notedwin.tech/posts/haxml
 
       - name: Lynn Matar
         role: Intern
-        photo: lmatar.jpeg
+        photo: member/lmatar.jpeg
         github: lmatar
         linkedin: lynnmatar
         blog: https://lmatar.github.io/haxblog
 
       - name: Vinesh Kannan
         role: Mentor
-        photo: vingkan.jpg
+        photo: member/vingkan.jpg
         github: vingkan
         linkedin: vineshkannan
