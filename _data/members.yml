@@ -35,6 +35,7 @@
     - members:
       - name: Anna Shklover
         role: Intern
+        photo: member/ashklover.jpg
         github: ashklover
 
       - name: Camilo Cortes
@@ -76,6 +77,7 @@
 
       - name: Aleksandra Kukielko
         role: Mentor
+        photo: member/olakukielko.png
         github: olakukielko
         linkedin: akukielk
 
