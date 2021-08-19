@@ -14,6 +14,7 @@
 
       - name: Andrew Tolentino
         role: Mentor
+        photo: member/atolentino.jpeg
         github: Andrew-Tolentino
         linkedin: andrew-tolentino-299ba1140
 
@@ -31,6 +32,7 @@
 
       - name: Divya Soopal
         role: Mentor
+        photo: member/bsoopal.png
         github: divyashie
         linkedin: bhoj-rani-soopal
 
@@ -48,6 +50,7 @@
 
       - name: Rachael Brooks
         role: Mentor
+        photo: member/rbrooks6.png
         github: rbrooks6
         linkedin: rbrooks6
 
@@ -87,10 +90,12 @@
     - members:
       - name: Asude Ozturk
         role: Intern
+        photo: member/asudeozturk.jpeg
         github: asudeozturk
 
       - name: Morgan Peters
         role: Mentor
+        photo: member/morleegan.png
         github: morleegan
         linkedin: morleegan
 
