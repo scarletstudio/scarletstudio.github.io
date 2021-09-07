@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" href="./favicon.ico" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="../assets/css/reset.css" />
+  <link rel="stylesheet" type="text/css" href="../assets/css/style.css" />
+  <script src="https://kit.fontawesome.com/0f5aabdc14.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <header class="header">
+    <a href="../">
+      <img src="../assets/img/logo.png" class="logo" alt="Logo" />
+    </a>
+    <nav>
+      <a href="../">Home</a>
+      <a href="../blog">Blog</a>
+    </nav>
+  </header>
+  <div class="page">
+    <section class="section transparent">
+      <div class="narrow center">
+        <h1 id="home" class="title">{{ page.title }}</h1>
+        <!-- Author and/or published data -->
+        {% assign date_format = "%B %e, %Y" %}
+        {% if page.author and page.published %}
+          <p>By {{ page.author }}</p>
+          <p>{{ page.published | date: date_format }}</p>
+        {% elsif page.author %}
+          <p>By {{ page.author }}</p>
+        {% elsif page.published %}
+          <p>By {{ page.published | date: date_format }}</p>
+        {% endif %}
+        <!-- Preview description -->
+        {% if page.description %}
+          <p>{{ page.description }}</p>
+        {% endif %}
+      </div>
+    </section>
+    <section class="section white">
+      <div class="wide left blog">
+        {{ page.content }}
+      </div>
+    </section>
+    <section class="section transparent">
+      <div class="narrow center">
+        <p>Thanks for reading.</p>
+      </div>
+    </section>
+  </div>
+  <video autoplay muted loop poster="../assets/img/coding.png" class="background">
+    <source src="../assets/vid/coding.mp4" type="video/mp4" />
+  </video>
+  <script type="text/javascript">
+    
+    const video = document.querySelector('video');
+    video.playbackRate = 8;
+
+  </script>
+</body>
+</html>
