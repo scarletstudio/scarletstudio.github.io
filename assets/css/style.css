@@ -65,6 +65,11 @@ ul {
   padding-left: 2em;
 }
 
+ol {
+  list-style: decimal;
+  padding-left: 2em;
+}
+
 li {
   font-size: 1.5em;
   line-height: 1.5em;
@@ -248,9 +253,19 @@ a, a:visited {
   color: white;
 }
 
+.white {
+  background: white;
+  color: black;
+}
+
 .dark {
   background: rgba(0, 0, 0, 0.5);
   color: white;
+}
+
+.light {
+  background: rgba(255, 255, 255, 0.95);
+  color: black;
 }
 
 /* Forms */
@@ -427,4 +442,26 @@ a, a:visited {
     margin-bottom: 1em;
   }
 
+}
+
+/* Blog */
+
+.blog img {
+  width: 100%;
+  margin: 1em auto;
+}
+
+.blog table {
+  font-size: 1.5em;
+  line-height: 1.5em;
+  margin: 0.5em 0;
+}
+
+.blog table th,
+.blog table td {
+  padding: 0.5em;
+}
+
+.blog table th {
+  font-weight: bold;
 }
