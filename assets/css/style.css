@@ -60,6 +60,39 @@ p {
   margin: 0.5em 0;
 }
 
+.blog h1, .blog h2, .blog h3,
+.blog h4, .blog h5, .blog h6 {
+  line-height: 1.25em;
+}
+
+.blog h1 {
+  font-size: 2.6em;
+}
+
+.blog h2 {
+  font-size: 2.25em;
+}
+
+.blog h3 {
+  font-size: 2.0em;
+}
+
+.blog h4 {
+  font-size: 1.9em;
+}
+
+.blog h5 {
+  font-size: 1.7em;
+}
+
+.blog h6 {
+  font-size: 1.5em;
+}
+
+.blog p {
+  margin: 1em 0;
+}
+
 ul {
   list-style: disc;
   padding-left: 2em;
@@ -281,9 +314,22 @@ a, a:visited {
   margin-right: 0.25em;
 }
 
+.primary {
+  background: rgba(204, 0, 1, 1.0);
+  border: 1px solid rgba(204, 0, 1, 1.0);;
+  color: white;
+}
+
 .secondary, .tertiary {
   border: 1px solid white;
   color: white;
+}
+
+.primary:hover {
+  border: 1px solid black;
+  background: black;
+  color: white;
+  font-weight: bold;
 }
 
 .secondary:hover, .tertiary:hover {
@@ -296,6 +342,11 @@ a, a:visited {
 .tertiary {
   border: none;
   color: white;
+}
+
+.big {
+  font-size: 1.25em;
+  font-weight: bold;
 }
 
 /* Members */
@@ -464,4 +515,37 @@ a, a:visited {
 
 .blog table th {
   font-weight: bold;
+}
+
+blockquote {
+  font-style: italic;
+  opacity: 0.75;
+  margin: 1.5em auto;
+}
+
+blockquote p {
+  margin: 0;
+  padding: 0;
+}
+
+.blog.narrow_blocks img {
+  width: 80%;
+  margin: 1.5em auto;
+  display: block;
+}
+
+.blog.narrow_blocks blockquote {
+  width: 80%;
+}
+
+@media screen and (max-width: 405px) {
+
+  .blog.narrow_blocks img {
+    width: 100%;
+  }
+
+  .blog.narrow_blocks blockquote {
+    width: 90%;
+  }
+
 }

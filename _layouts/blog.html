@@ -19,7 +19,9 @@
     </a>
     <nav>
       <a href="../">Home</a>
-      <a href="../blog">Blog</a>
+      {% unless page.landing_page %}
+        <a href="../blog">Blog</a>
+      {% endunless %}
     </nav>
   </header>
   <div class="page">
@@ -43,7 +45,7 @@
       </div>
     </section>
     <section class="section white">
-      <div class="wide left blog">
+      <div class="wide left blog {{ page.blog_classes | join: ' ' }}">
         {{ page.content }}
       </div>
     </section>
