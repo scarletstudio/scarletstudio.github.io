@@ -39,6 +39,8 @@ The program helps students create a support system, grow their confidence, demon
   </a>
 </p>
 
+<p class="hint">Select "Scarlet Data Studio Project" under designation.</p>
+
 ## Meaningful, Challenging Projects
 
 In winter 2020, two interns developed and deployed online machine learning models to predict soccer goals, trained on 300,000+ plays collected from an online game.
@@ -59,7 +61,7 @@ Your support will help us fund the third cohort of interns!
 
 Next summer, we plan to host 20 interns. Your charitable donation will fund the stipends of students and mentors and help extend this opportunity to more students.
 
-If you want to help this program serve future cohorts of students, please pledge your donation for the next three years or more.
+If you want to help this program serve future cohorts of students, please mention in your donation comment that you are willing to pledge your donation for the next three years.
 
 > This internship was such a highlight in my interviews and it impressed the interviewers so much. I learned a lot from you two and wouldn't have been able to land this job without you.
 
@@ -70,5 +72,7 @@ If you want to help this program serve future cohorts of students, please pledge
     <span>Donate</span>
   </a>
 </p>
+
+<p class="hint">Select "Scarlet Data Studio Project" under designation.</p>
 
 Thank you for giving forward to Illinois Tech students and helping create a more equitable and inclusive technology industry!
