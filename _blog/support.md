@@ -75,4 +75,6 @@ If you want to help this program serve future cohorts of students, please mentio
 
 <p class="hint">Select "Scarlet Data Studio Project" under designation.</p>
 
+All donations are through the Illinois Institute of Technology and tax-deductible.
+
 Thank you for giving forward to Illinois Tech students and helping create a more equitable and inclusive technology industry!
