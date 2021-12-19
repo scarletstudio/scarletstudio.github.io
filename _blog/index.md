@@ -9,7 +9,7 @@ description: Read about what Scarlet Data Studio has been up to.
   {% assign articles = site.blog | where: 'display', true | sort: "published" | reverse %}
   {% for page in articles %}
     <div class="article">
-      <a href="../blog/{{ page.slug }}">
+      <a href="../blog/{{ page.slug }}" class="no-decorate">
         <h2>{{ page.title }}</h2>
       </a>
       <p>

@@ -4,7 +4,7 @@ title: Example Blog Post
 author: Vinesh Kannan
 published: 2021-09-06
 description: An example blog post showing off features you can use.
-display: true
+display: false
 variable: 26 apples
 ---
 
