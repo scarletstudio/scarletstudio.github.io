@@ -4,6 +4,7 @@ title: Support Scarlet Data Studio
 description: Fund paid internships for aspiring software engineers!
 author: Vinesh Kannan
 published: 2021-12-01
+display: true
 permalink: /support
 landing_page: true
 blog_classes:
