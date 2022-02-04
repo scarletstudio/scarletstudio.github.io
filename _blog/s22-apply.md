@@ -11,9 +11,9 @@ apply_link: https://forms.gle/BMmLJRVgnKdDsmP77
 
 **Scarlet Data Studio** is a paid opportunity for underrepresented Illinois Tech students to work on a six-week software engineering internship with professional alumni mentors.
 
-We designed this program for you to get paid to do work in your field of study, gain experience to help with your job search, and connect with alumni who can advocate for you.
-
 Last summer we hosted ten students, you can [read more about their projects here](../blog/s21-projects). This summer will be our third cohort.
+
+The program is designed for students with little or no experience outside of coursework. Any student who feels comfortable coding in Python is eligible.
 
 If you are interested in participating, please fill out [this interest form]({{ page.apply_link }}){:target="_blank"} before April 4th, 2022. There are no interviews, we will select students who we think will benefit the most from the program. Contact Vinesh Kannan (v@hawk.iit.edu) if you have any questions.
 
@@ -25,9 +25,23 @@ If you are interested in participating, please fill out [this interest form]({{ 
 
 The interest form should take 2-5 minutes of your time to complete.
 
-Scarlet Data Studio is not the only opportunity out there for students interested in software engineering. Once you apply, we will share resources with you to help you search for other roles that match your interests. We hope you find the best role for you!
+## Job Search Resources
 
-## Program Overview
+We want to help you succeed in your job or internship search! That is why Scarlet Data Studio has a special model: we do not select interns until the end of the semester, that way we can provide resources to help you find a job or internship elsewhere before the summer arrives.
+
+Once you apply to Scarlet Data Studio, we will share self-study guides with you to help you search for other roles that match your interests. If your search is successful, you can get an offer from another program even before the semester ends!
+
+And if despite all your efforts you are not able to get another internship, you will still have a chance to join Scarlet Data Studio.
+
+## Internship Overview
+
+### Program Goals
+
+Scarlet Data Studio helps underrepresented Illinois Tech students advance in their software engineering careers by:
+
+- Offering a project that will help students succeed in their job search
+- Paying students to do work in their field of study
+- Connecting students with alumni who can advocate for them
 
 ### About You
 
