@@ -6,9 +6,10 @@ author: Vinesh Kannan
 published: 2021-12-01
 display: true
 permalink: /support
-landing_page: true
+headers:
+- no_blog
 blog_classes:
-  - narrow_blocks
+- narrow_blocks
 donate_link: https://alumni.iit.edu/give-to-illinois-tech
 ---
 

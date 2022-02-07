@@ -5,7 +5,8 @@ description: Help Illinois Tech students grow as software engineers!
 author: Vinesh Kannan
 published: 2021-12-18
 permalink: /s22/mentors
-landing_page: true
+headers:
+- no_blog
 ---
 
 # Help Illinois Tech Students Grow as Software Engineers

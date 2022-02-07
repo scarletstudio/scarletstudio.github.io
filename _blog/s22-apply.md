@@ -7,6 +7,8 @@ published: 2022-02-07
 display: false
 permalink: /apply
 apply_link: https://forms.gle/BMmLJRVgnKdDsmP77
+headers:
+- jobsearch
 ---
 
 **Scarlet Data Studio** is a paid opportunity for underrepresented Illinois Tech students to work on a six-week software engineering internship with professional alumni mentors.
@@ -27,11 +29,9 @@ The interest form should take 2-5 minutes of your time to complete.
 
 ## Job Search Resources
 
-We want to help you succeed in your job or internship search! That is why Scarlet Data Studio has a special model: we do not select interns until the end of the semester, that way we can provide resources to help you find a job or internship elsewhere before the summer arrives.
+We want to help you succeed in your job or internship search! That is why Scarlet Data Studio has a special model: we do not select interns until the end of the semester. Instead, [we provide resources](../jobsearch) to help you find a role that fits your interests.
 
-Once you apply to Scarlet Data Studio, we will share self-study guides with you to help you search for other roles that match your interests. If your search is successful, you can get an offer from another program even before the semester ends!
-
-And if despite all your efforts you are not able to get another internship, you will still have a chance to join Scarlet Data Studio.
+If your search is successful, you can get an offer from another organization even before the semester ends! And if despite all your efforts you are not able to get another internship, you will still have a chance to join Scarlet Data Studio.
 
 ## Internship Overview
 
@@ -49,7 +49,7 @@ The program is for current Illinois Tech students, in any major. Experience outs
 
 You will be well-prepared for this program if you:
 
-- Are interested in software engineering, coding, and/or software engineering
+- Are interested in software engineering, coding, and/or computer science
 - Feel comfortable coding in Python
 
 If you have any of these **optional** additional skills that will help us pick a project for you:

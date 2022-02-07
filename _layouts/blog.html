@@ -18,10 +18,15 @@
       <img src="../assets/img/logo.png" class="logo" alt="Logo" />
     </a>
     <nav>
-      <a href="../">Home</a>
-      {% unless page.landing_page %}
+      {% unless page.headers contains "no_home" %}
+        <a href="../">Home</a>
+      {% endunless %}
+      {% unless page.headers contains "no_blog" %}
         <a href="../blog">Blog</a>
       {% endunless %}
+      {% if page.headers contains "jobsearch" %}
+        <a href="../jobsearch">Job Search</a>
+      {% endif %}
     </nav>
   </header>
   <div class="page">
