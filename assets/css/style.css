@@ -130,6 +130,11 @@ a.no-decorate, a.no-decorate:visited {
   text-decoration: underline;
 }
 
+.bright a, .bright a:visited {
+  color: white;
+  text-decoration: underline;
+}
+
 strong {
   font-weight: bold;
 }

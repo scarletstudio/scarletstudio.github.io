@@ -1,11 +1,12 @@
 ---
 layout: blog
 title: Revising Your Resume
-permalink: /guide/revising-resume
+permalink: /guide/resume
 headers:
 - no_home
 - no_blog
 - jobsearch
+footer: jobsearch
 ---
 
 You should revise your resume at the start of your job search. You may also need to come back and make resume improvements later on if you are having trouble getting invited for interviews.

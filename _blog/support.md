@@ -25,7 +25,7 @@ To address this need, alumni and staff at Illinois Tech have created new opportu
 
 Last summer, we created paid internships for ten students, and we plan to host 20 next summer!
 
-![Photos of the ten Illinois Tech students who interned at Scarlet Data Studio in summer 2021.](../assets/img/interns_summer_2021.png)
+![Photos of the ten Illinois Tech students who interned at Scarlet Data Studio in summer 2021.](../assets/img/blog/interns-summer-2021.png)
 
 Scarlet Data Studio supports underrepresented students who are prepared for a software engineering internship but have not been able to land an opportunity. We create six-week paid internships where students own meaningful features and ship code to production, mentored by Illinois Tech alumni who work professionally as software engineers.
 

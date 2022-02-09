@@ -1,11 +1,12 @@
 ---
 layout: blog
 title: Practicing Technical Interviews
-permalink: /guide/practicing-technicals
+permalink: /guide/technicals
 headers:
 - no_home
 - no_blog
 - jobsearch
+footer: jobsearch
 ---
 
 Once you get past the application stage, it is time for interviews! Start practicing for interviews earlier to be prepared.

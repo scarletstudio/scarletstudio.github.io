@@ -2,7 +2,7 @@
 layout: blog
 title: Job Search Resources
 description: Use these self-study resources to find a job or internship.
-author: Vinesh Kannan
+author: Scarlet Data Studio
 published: 2022-02-05
 display: true
 permalink: /jobsearch
@@ -22,29 +22,34 @@ When you submit your application, we will email you your own job search progress
 
 ## Milestones
 
-There are five main milestones in your job search:
+There are six main milestones in your job search:
 
-1. Finding relevant roles
-2. Revising your resume
-3. Applying to roles
-4. Interviewing for roles
-5. Negotiating offers for roles
+1. Networking with people in the industry
+2. Finding relevant roles
+3. Revising your resume
+4. Applying to roles
+5. Interviewing for roles
+6. Negotiating offers for roles
 
 As you reach each milestone, you can check them off in your progress tracker spreadsheet.
 
-The goal of your job search is to get an offer, preferably multiple offers, so that you can negotiate. Most students fall into one of two groups:
+The goal of your job search is to get an offer, preferably multiple offers, so that you can negotiate.
+
+Most students fall into one of two groups:
 
 - **Group 1:** Applying to roles, but not getting invited for interviews
 - **Group 2:** Interviewing for roles, but not getting offers
 
 If you are in group 1, your goal is to get your first interview or get interviews more often. You can accomplish that by focusing on these job search skills:
 
-- [Finding relevant roles](../guide/finding-roles)
-- [Revising your resume](../guide/revising-resume)
+- [Learning about software engineering](../guide/swe)
+- [Finding relevant roles](../guide/roles)
+- [Revising your resume](../guide/resume)
+- [Growing your network](../guide/network)
 
 If you are in group 2, your goal is to pass your interviews so you can secure offers. Most likely, the roles you are finding and your resume are good, so you should focus on interview preparation:
 
-- [Practicing technical interviews](../guide/practicing-technicals)
+- [Practicing technical interviews](../guide/technicals)
 
 ## Other Resources
 
@@ -57,7 +62,7 @@ Here are helpful links from around the web to help you learn more:
 - Behavioral Interviews: [STAR Method](https://www.themuse.com/advice/star-interview-method)
 - Technical Interviews: [Data Structures & Algorithms Questions in Python](https://github.com/donnemartin/interactive-coding-challenges)
 - Negotiating Offers ([Part 1](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/), [Part 2](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/))
-- [Stretch Opportunities](https://twitter.com/mekkaokereke/status/1218940982122577921)
+- [Thread: Stretch Opportunities](https://twitter.com/mekkaokereke/status/1218940982122577921)
 
 ### Software Engineering
 
@@ -67,3 +72,4 @@ Here are helpful links from around the web to help you learn more:
 - [How to Search For Solutions](https://medium.com/@niamhpower/how-to-google-effectively-as-a-developer-4ebe363afe)
 - [System Design](https://github.com/donnemartin/system-design-primer)
 - [Engineering Ladders](http://www.engineeringladders.com/)
+- [Online Book: _Software Engineering at Google_](https://abseil.io/resources/swe-book)

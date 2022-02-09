@@ -55,9 +55,15 @@
       </div>
     </section>
     <section class="section transparent">
-      <div class="narrow center">
-        <p>Thanks for reading.</p>
-      </div>
+      {% if page.footer == "jobsearch" %}
+        <div class="narrow center bright">
+          <p><a href="../jobsearch">Back to Job Search Resources</a></p>
+        </div>
+      {% elsif page.footer != "none" %}
+        <div class="narrow center">
+          <p>Thanks for reading.</p>
+        </div>
+      {% endif %}
     </section>
   </div>
   <video autoplay muted loop poster="../assets/img/coding.png" class="background">

@@ -1,14 +1,15 @@
 ---
 layout: blog
 title: Finding Relevant Roles
-permalink: /guide/finding-roles
+permalink: /guide/roles
 headers:
 - no_home
 - no_blog
 - jobsearch
+footer: jobsearch
 ---
 
-The first step of a job or internship search is finding relevant roles. You can always come back to this step to look for new opportunities.
+Before you apply, you need to find relevant roles that match your interests. You can always come back to this step to look for new opportunities.
 
 ## Outline
 
@@ -21,7 +22,7 @@ The first step of a job or internship search is finding relevant roles. You can 
 
 As you go through this guide, open the **Jobs** tab of your job search progress tracker spreadsheet. (Don't have a progress tracker? [Apply](../apply) to Scarlet Data Studio's internship and we will send you one!)
 
-![Screenshot of an example job search progress tracker spreadsheet](../assets/img/tracker.png)
+![Screenshot of an example job search progress tracker spreadsheet](../assets/img/jobsearch/tracker.png)
 
 We recommend following the LAMP method, from the book "The 2-Hour Job Search" by Steve Dalton. You can ask Career Services for a copy of the book or refer to [these summary slides](https://www.slideshare.net/kocharsimardeep/the-2-hour-job-search-book-summary-63004716) by Simardeep Kochar. LAMP stands for: **L**ist, **A**lumni, **M**otivation, and **P**ostings. First, you create a list of organizations, then you prioritize your list based on alumni, motivation, and postings.
 
@@ -79,17 +80,15 @@ Find the organization's careers page, if any. If they have job postings, pick th
 4. Meet more than one requirement
 5. Meet many requirements
 
+Refer to our [guide about software engineering](../guide/swe) to learn about common job titles of software engineering roles.
+
 ### Supporters
 
 Do you know an alum, friend, or someone else who works there or can introduce you to someone who works there? If so, write down their name in the "Supporter" column.
 
 If an alum works there but you do not know them, you can write down their name or just write "Alumni" in the cell.
 
-It is okay if you do not know any or many supporters. Check out these resources for advice on finding a supporter:
-
-- [Join The Bridge at Illinois Tech](https://iit.wisr.io/signup)
-- [Two Hour Job Search Slides](https://www.slideshare.net/kocharsimardeep/the-2-hour-job-search-book-summary-63004716)
-- [Luck Surface Area](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)
+It is okay if you do not know any supporters. Check out our guide on [how to grow your network](../guide/network) so that you can meet people who want to support you!
 
 ### Further Research
 
@@ -97,9 +96,9 @@ Sort your list and check out the organizations you rated as 1 for interest or 3-
 
 ## 3. Prepare to Apply
 
-Now you have a list of relevant roles! [Once your resume is ready](../guide/revising-resume), you can start applying.
+Now you have a list of relevant roles! [Once your resume is ready](../guide/resume), you can start applying.
 
-**Suppoters and Referrals**: If you know a supporter, you should wait to apply to the role. Ask if you can chat with them about the organization (or if they can introduce you to someone). If the supporter is an employee, they may be able to refer you to the role, which gives you a better chance of getting invited to an interview.
+**Supporters and Referrals**: If you know a supporter, you should wait to apply to the role. Ask if you can chat with them about the organization (or if they can introduce you to someone). If the supporter is an employee, they may be able to refer you to the role, which gives you a better chance of getting invited to an interview. Read more on this topic in our [networking guide](../guide/network).
 
 **Qualifications**: Any role you rated 3-5 for fit is a role you could apply to. It is good to apply to roles where you meet more of the requirements, but sometimes a role where you only meet one requirement could still be a good fit! Use your best judgement based on the role description or ask for advice.
 
@@ -114,6 +113,7 @@ Once you are ready, send out all your applications. You do not need to spread th
 In each row, keep track of the status and the date that you reached that status. Here are the options for status:
 
 - **Saved**: You added this organization and role to your list
+- **Supporter**: You have not applied because you plan to meet with a supporter who works there
 - **Applied**: You submitted your application
 - **Reminded**: You have not heard back, so you asked for an update on your application
 - **Rejected**: The organization informed you that they will not move forward with your application
