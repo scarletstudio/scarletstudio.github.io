@@ -2,9 +2,9 @@
 layout: blog
 title: "Apply Now: Summer 2022 Internships"
 description: Want to be a software engineer? Join us!
-author: Vinesh Kannan
-published: 2022-02-07
-display: false
+author: Scarlet Data Studio
+published: 2022-02-09
+display: true
 permalink: /apply
 apply_link: https://forms.gle/BMmLJRVgnKdDsmP77
 headers:
@@ -20,7 +20,7 @@ The program is designed for students with little or no experience outside of cou
 If you are interested in participating, please fill out [this interest form]({{ page.apply_link }}){:target="_blank"} before April 4th, 2022. There are no interviews, we will select students who we think will benefit the most from the program. Contact Vinesh Kannan (v@hawk.iit.edu) if you have any questions.
 
 <p class="center">
-  <a class="button primary big" href="{{ page.apply_link }}" target="_blank">
+  <a class="big button primary splash contrast" href="{{ page.apply_link }}" target="_blank">
     <span>Apply</span>
   </a>
 </p>
