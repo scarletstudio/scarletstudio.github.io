@@ -58,7 +58,11 @@ Software engineering has a wide variety of roles. Here are examples of different
 
 **Infrastructure Engineers** are engineers who build systems to provide new capabilities to other engineers. Their work often supports teams of feature engineers. Also called **Platform Engineers**.
 
+**Build Engineers** are a specific type of infrastructure engineer who build systems to enable other software engineers to compile and run their code quickly, correctly, and repeatedly. In large organizations, their efforts are crucial to maintaining productivity and scale.
+
 **Data Engineers** create pipelines and apps to extract, transform, and load data. They may also create services to support other members of the organization, including non-engineers, who need to do things with data. They may use programming languages like Python, SQL, or Go and use libraries like Spark, Hadoop, BigQuery, or Airflow.
+
+**Security Engineers** ensure that systems are protected from malicious activity, preserve the privacy of user data, and find solutions to risks.
 
 **Reliability Engineers** monitor and improve systems to reduce the risk that they will crash or create other problems. They are crucial in organizations that support large scale systems.
 
@@ -70,7 +74,7 @@ Software engineering has a wide variety of roles. Here are examples of different
 
 **Test Engineers** design plans to verify whether software works correctly. They form an understanding of the system and how users rely on it. They may write code to conduct automated testing and build systems to support testing. Test engineers may hand-off issues to other engineers or fix them directly. Also called **Quality Assurance (QA) Engineers**.
 
-**Security Engineers** ensure that systems are protected from malicious activity, preserve the privacy of user data, and find solutions to risks.
+**DevOps Engineers** develop systems to handle code deployments and other parts of the engineering process. They may work on builds, testing, continuous integration, release, monitoring, logging, and developer tools.
 
 ## Software Engineering Skills
 
