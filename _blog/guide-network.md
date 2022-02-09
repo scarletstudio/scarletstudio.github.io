@@ -9,9 +9,11 @@ headers:
 footer: jobsearch
 ---
 
-Most people do not know someone who works in software engineering or other technology role. There is also a huge variety of roles in the space.
+Most people do not know someone who works in software engineering or another technology role. There is also a huge variety of roles in the space.
 
 Meeting others, learning about their perspectives, and sharing your own work are great ways to find new opportunities and grow in your career.
+
+As a student, you can grow your network by finding supporters!
 
 ## Outline
 
@@ -24,7 +26,7 @@ Meeting others, learning about their perspectives, and sharing your own work are
 
 **Referrals**: Many employers have a process called "referrals" where they ask current employees to recommend people they know to join the organization. Some organizations rely on referrals more than job postings to find candidates. If you are sending applications and not getting a response, it may be because that organization has many referrals to go through. If you meet some and they get to know you and your work, they may be willing to refer you to a role at their organization! To succeed in your job search, it helps to have a mix of referrals and open applications.
 
-**Direction**: There are many topics to learn about in the world of technology, more than can be covered in school. Should you learn a new programming language? Should you try out open source? How do different industries use software engineering? These are things you can ask supporters and mentors. Their perspective can help you learn things you didn't know you didn't know!
+**Advice**: There are many topics to learn about in the world of technology, more than can be covered in school. Should you learn a new programming language? Should you try out open source? How do different industries use software engineering? These are things you can ask supporters and mentors. Their perspective can help you learn things you didn't know you didn't know!
 
 **Long-Term Connections**: Some supporters may only be available to meet with you a few times, but others may stay connected with you for many years. Even after you find a job, you can reach out them to ask for advice, share your accomplishments, and even help out them!
 
@@ -134,7 +136,7 @@ Other things to keep in mind when reaching out:
 - You can personalize your note further by mentioning their work. If they wrote a blog article you found helpful or some other contribution, you can mention that and share why you liked it.
 - If you do not hear back in two weeks, you can reply to your original email to ask if they would be willing to meet with you. If no response, you can follow up again one week later. After three follow-ups, you can assume they are too busy.
 - Do not reach out to a huge number of people. Try picking the three people you are most interested in. If one of them does not respond after your second follow up, you can reach out to another person.
-- Try not to reach out to more than one person from the same company. This makes it appear as if you are reaching out to anyone, rather than doing research on who you think will be most helpful to you.
+- Avoid reaching out to multiple people from the same company. This makes it appear as if you are reaching out to anyone, rather than researching who you think will be most helpful to you.
 - It is best to set up a video call, but if the person is too busy to schedule a meeting with you, they may be willing to answer your questions by email. You can offer that if they say they are not free to meet. If they are interested in your questions, they may offer to meet with you later on when they have more time.
 
 ### Step 3. Engage with the supporter
