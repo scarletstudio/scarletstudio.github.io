@@ -1,15 +1,24 @@
 ---
 layout: blog
-title: "Apply Now: Summer 2022 Internships"
+title: Summer 2022 Internships
 description: Want to be a software engineer? Join us!
 author: Scarlet Data Studio
 published: 2022-02-09
 display: true
-permalink: /apply
-apply_link: https://forms.gle/BMmLJRVgnKdDsmP77
+signup_link: https://forms.gle/mhNtURAKf7fnre8t6
 headers:
 - jobsearch
 ---
+
+**Applications are now closed.** Sign up for our email list for updates on future opportunities.
+
+<p class="center">
+  <a class="big button primary splash contrast" href="{{ page.signup_link }}" target="_blank">
+    <span>Join Our Email List</span>
+  </a>
+</p>
+
+## Overview
 
 **Scarlet Data Studio** is a paid opportunity for underrepresented Illinois Tech students to work on a six-week software engineering internship with professional alumni mentors.
 
@@ -17,23 +26,24 @@ Last summer we hosted ten students, you can [read more about their projects here
 
 The program is designed for students with little or no experience outside of coursework. Any student who feels comfortable coding in Python is eligible.
 
-If you are interested in participating, please fill out [this interest form]({{ page.apply_link }}){:target="_blank"} before April 4th, 2022. There are no interviews, we will select students who we think will benefit the most from the program. Contact Vinesh Kannan (v@hawk.iit.edu) if you have any questions.
-
-<p class="center">
-  <a class="big button primary splash contrast" href="{{ page.apply_link }}" target="_blank">
-    <span>Apply</span>
-  </a>
-</p>
-
-The interest form should take 2-5 minutes of your time to complete.
-
 ## Job Search Resources
 
 We want to help you succeed in your job or internship search! That is why Scarlet Data Studio has a special model: we do not select interns until the end of the semester. Instead, [we provide resources](../jobsearch) to help you find a role that fits your interests.
 
 If your search is successful, you can get an offer from another organization even before the semester ends! And if despite all your efforts you are not able to get another internship, you will still have a chance to join Scarlet Data Studio.
 
-## Internship Overview
+## Application Timeline
+
+- Feb 9: Application opens
+- Apr 4: Application closes
+- May 9: Decisions sent to applicants
+- May 27: Final status for waitlisted applicants
+- Jun 27: Internship starts
+- Aug 5: Internship ends
+
+If you are not accepted, you will be placed on the waitlist. Acceptances cannot be transferred. If you decide not to participate in Scarlet Data Studio (hopefully because you found another opportunity!), please let us know so we can open the spot up to someone on the waitlist. We will finalize all spots by May 27<sup>th</sup>.
+
+## Internship Details
 
 ### Program Goals
 
