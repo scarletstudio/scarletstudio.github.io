@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Facilitator Tech Exercise
+title: Tech Lead Exercise
 description: Try out part of the project that the interns will work on!
 author: Vinesh Kannan
 published: 2022-04-22
