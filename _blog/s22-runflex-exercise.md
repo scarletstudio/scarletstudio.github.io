@@ -11,6 +11,8 @@ headers:
 
 # Backend Software Engineering for RunFlex
 
+**Note:** Unfortunately, we will not be running this specific program in summer 2022, but plan to launch it next year. If you filled out [the tech lead survey](../s22/techleads), we will be in touch about future opportunities.
+
 This summer, the interns in the virtual software engineering internship will build features for the backend API of RunFlex: an app for runners to track and share their achievements.
 
 RunFlex processes GPX data from a run and shows metrics for each run. In this exercise, you will get started in the codebase and implement one of those metrics: **elevation gain**.

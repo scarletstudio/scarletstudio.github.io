@@ -59,11 +59,11 @@ Other volunteers will help students with resume reviews, mock interviews, and bl
 
 ### Projects
 
-Overall topic to be determined.
+Our team will work together to build Butterfly: a social matching app that helps members meet new people and learn new things by pairing them with someone in their community each week.
 
-[Ideas](https://docs.google.com/document/d/1hV3nijTq-51E2rWCiGonkvnpzQd8X5LxJiCTeHGMYrs){:target="_blank"} include: blind dating app, running app, or multiplayer remote games.
+More details and the proposed teams can be found in the [product and engineering design doc](https://docs.google.com/document/d/1X_RHbXHpLTzLspmzhQ2klwR37ELQBq5CaEYkF4KTLdQ/edit?usp=sharing){:target="_blank"}.
 
-Each intern should complete three projects, the first two are assigned to them:
+Each intern should complete three projects, the first two will be assigned to them:
 
 1. **Starter Project:** a small code change that can be completed in one pull request
 2. **Core Project:** a new feature they will launch that has already been scoped out

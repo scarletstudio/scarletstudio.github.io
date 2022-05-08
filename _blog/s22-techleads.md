@@ -13,6 +13,8 @@ blueprint_link: https://docs.google.com/document/d/1bEgmN--47fxB082WhMposf6p6e3N
 
 # Seeking Tech Leads for a Virtual Internship!
 
+**Note:** Unfortunately, we will not be running this specific program in summer 2022, but plan to launch it next year. If you are interested in becoming a tech lead, feel free to fill out the form below.
+
 Do you want to help Illinois Tech students grow as software engineers and improve your own engineering leadership skills? We are looking for tech leads to manage teams of student interns in a new, virtual software engineering internship.
 
 Scarlet Data Studio is partnering with GlobalShala to offer a virtual internship for Illinois Tech students who want to try out software engineering. Interns will work in teams of four to build the backend for an app for runners. Each intern will implement, test, and design backend features.
