@@ -1,3 +1,196 @@
+- term: Summer 2022
+  project: Butterfly
+  groups:
+    - members:
+      - name: Alhassan Elkossei
+        role: Intern
+        photo: member/aelkossei.png
+        github: aelkossei
+        linkedin: alhassan-elkossei
+
+      - name: Verica Karanakova
+        role: Intern
+        photo: member/vkaranakova.png
+        github: verica-kar
+        linkedin: verica-karanakova-b11a8a243
+
+      - name: Anna Benson
+        role: Mentor
+        photo: member/abenson.jpeg
+        github: annalbenson
+        linkedin: alb-cs
+
+    - members:
+      - name: Lauren Williams
+        role: Intern
+        photo: member/lwilliams.jpeg
+        github: lwilliams717
+        linkedin: lauren-williams-824b8119a
+
+      - name: Neveen Elmajdoub
+        role: Intern
+        photo: member/nelmajdoub.jpeg
+        github: nelmajdoub
+        linkedin: neveen-elmajdoub-042912224
+
+      - name: Arushi Rai
+        role: Mentor
+        photo: member/arai.jpeg
+        github: arushirai1
+        linkedin: arushi-r-568887b3
+
+    - members:
+      - name: David Galicia
+        role: Intern
+        photo: member/dgalicia.png
+        github: dfg-13
+        linkedin: david-galicia-707746165
+
+      - name: Nelida Schalich-Ayllon
+        role: Intern
+        photo: member/nschalichayllon.jpeg
+        github: nschalich
+        linkedin: nelida-schalich-ayllon-7533421b7
+
+      - name: Edwin Zamudio
+        role: Mentor
+        photo: member/notedwin.jpeg
+        github: notedwin
+        linkedin: edwin-zamudio
+
+    - members:
+      - name: Ayman Fahsi
+        role: Intern
+        photo: member/afahsi.jpeg
+        github: BoominHutJr
+        linkedin: aymanfahsi
+
+      - name: Bridget Torres
+        role: Intern
+        photo: member/btorres.jpeg
+        github: bridgettorres
+        linkedin: bridget-torres-43a2b01b1
+
+      - name: Erik Quintanilla
+        role: Mentor
+        photo: member/equintanilla.jpeg
+        github: erikqu
+        linkedin: erikquintanilla
+
+    - members:
+      - name: Amir Stephens
+        role: Intern
+        photo: member/astephens.jpeg
+        github: astep2023
+        linkedin: amir-stephens-a603a0213
+
+      - name: Luis Acosta
+        role: Intern
+        photo: member/lacosta.png
+        github: lacosta2
+        linkedin: lacosta2
+
+      - name: Prince Hodonou
+        role: Mentor
+        photo: member/phodonou.jpeg
+        github: phodonou
+        linkedin: phodonou
+
+    - members:
+      - name: Emma Diamon
+        role: Intern
+        photo: member/ediamon.jpeg
+        github: emmadiamon
+        linkedin: emma-diamon
+
+      - name: Luke Arrington
+        role: Intern
+        photo: member/larrington.png
+        github: eeerie
+        linkedin: luke-arrington-996407215
+
+      - name: Rachael Brooks
+        role: Mentor
+        photo: member/rbrooks6.png
+        github: rbrooks6
+        linkedin: rbrooks6
+
+    - members:
+      - name: Liliana Ortiz
+        role: Intern
+        photo: member/lortiz.jpeg
+        github: lortiz6
+        linkedin: lilianadcortiz
+
+      - name: Sara Fryzlewicz
+        role: Intern
+        photo: member/sfryzlewicz.png
+        github: sfryzlewicz
+        linkedin: sara-fryzlewicz-6960001bb
+
+      - name: Ramir Aguilos
+        role: Mentor
+        photo: member/raguilos.jpeg
+        github: Kawaiivee
+        linkedin: ramir-p-aguilos-jr
+
+    - members:
+      - name: Grace Sopha
+        role: Intern
+        photo: member/gsopha.jpeg
+        github: gsopha
+        linkedin: grace-sopha
+
+      - name: Nida Akkiswala
+        role: Intern
+        photo: member/nakkiswala.jpeg
+        github: NidaAkkiswala
+        linkedin: nida-akkiswala
+
+      - name: Spriha Jha
+        role: Mentor
+        photo: member/sjha.jpeg
+        github: sprihajha
+        linkedin: sprihajha
+
+    - members:
+      - name: Dinora Saldivar
+        role: Intern
+        photo: member/dsaldivar.jpeg
+        github: gravediggaz666
+        linkedin: dinorasaldivar
+
+      - name: Marilyn Elaine Flowers
+        role: Intern
+        photo: member/mflowers.jpeg
+        github: mflowers1395
+        linkedin: marilyn-flowers-08132121b
+
+      - name: Vinesh Kannan
+        role: Mentor
+        photo: member/vkannan.jpeg
+        github: vingkan
+        linkedin: vineshkannan
+
+    - members:
+      - name: Azucena Hernandez
+        role: Intern
+        photo: member/ahernandez.png
+        github: azuhdz7
+        linkedin: azucena-hernandez-3ba38a190
+
+      - name: Christopher Hunter
+        role: Intern
+        photo: member/chunter.png
+        github: chunter3
+        linkedin: christopher-hunter-a402b323b
+
+      - name: Vinesh Kannan
+        role: Mentor
+        photo: member/vkannan.jpeg
+        github: vingkan
+        linkedin: vineshkannan
+
 - term: Summer 2021
   project: TransitHealth
   groups:
@@ -71,7 +264,7 @@
 
       - name: Vinesh Kannan
         role: Mentor
-        photo: member/vingkan.jpg
+        photo: member/vkannan.jpeg
         github: vingkan
         linkedin: vineshkannan
 
@@ -120,6 +313,6 @@
 
       - name: Vinesh Kannan
         role: Mentor
-        photo: member/vingkan.jpg
+        photo: member/vkannan.jpeg
         github: vingkan
         linkedin: vineshkannan

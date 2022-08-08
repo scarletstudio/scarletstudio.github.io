@@ -9,3 +9,9 @@
   image: project/transithealth.png
   link: https://scarletstudio.github.io/transithealth
   github: https://github.com/scarletstudio/transithealth
+
+- name: Butterfly
+  description: Introduce members to new people in their community with a social matching app.
+  image: project/butterfly.png
+  link: https://scarletstudio.github.io/butterfly
+  github: https://github.com/scarletstudio/butterfly
