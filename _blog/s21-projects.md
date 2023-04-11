@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Summer 2021 Projects
+title: "Summer 2021 Recap: TransitHealth"
 description: Check out how the summer 2021 interns built TransitHealth!
 author: Vinesh Kannan
 published: 2021-08-31
