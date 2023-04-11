@@ -54,7 +54,7 @@ These diagrams show how the functionality of Butterfly evolved throughout the in
 
 This was the first year that Scarlet Data Studio had dedicated frontend developers. Check out all that they accomplished while building the Butterfly chat app:
 
-- **Amir** (and Prince) launched the match ratings feature and wrote a Python script to calculate who happy users are with their matches.
+- **Amir** (and Prince) launched the match ratings feature and wrote a Python script to calculate how happy users are with their matches.
 - **Dinora** (and Vinesh) launched the interests editor, community selector, a conversation starter, and a fun facts game.
 - **Grace** (and Spriha) launched the block users feature to make our app more safe, and hid chats with blocked users from the inbox.
 - **Liliana** (and Ramir) launched conversation starters for interests and started learned React from scratch in four weeks.
@@ -68,13 +68,13 @@ Our offline pipeline developers were hard at work as well. Check out their achie
 
 - **Alhassan** (and Anna) ranked match stars, normalized ratings based on users’ average ratings, and designed an interests taxonomy.
 - **Ayman** (and Erik) launched the rare interests generator, and designed and built the backend of a word guessing game.
-- **Azucena** (and Vinesh) connected intents data to the pipeline; wrote functions to find matches, rank notifications and calculate metrics.
+- **Azucena** (and Vinesh) connected intents data to the pipeline; and wrote functions to find matches, rank notifications and calculate metrics.
 - **Bridget** (and Erik) launched the similar interests generator and implemented logic for a new notification that we can send to users.
 - **Chris** (and Vinesh) connected interests data to the pipeline, built analytics, and designed and built a new notifications pipeline.
 - **David** (and Edwin) ranked matches to give users more variety, fixed a critical production bug, and extracted chat data for pipelines.
 - **Emma** (and Rachael) launched the similar schedules generator and implemented analytics about users’ availability in a community.
 - **Lauren** (and Arushi) launched the rare intents generator and designed and built a pipeline to calculate product analytics.
-- **Luke** (and Rachael) launched limited schedule matching and created functions to help manage availability data.
+- **Luke** (and Rachael) launched the limited schedule matching generator and created functions to help manage availability data.
 - **Nelida** (and Edwin) ranked matches to help users with fewer options and designed and built a system to cluster users.
 - **Neveen** (and Arushi) launched the rare intents generator and calculated analytics on distribution of intents in a community.
 - **Verica** (and Anna) ranked matches based on upvotes for helpful users and designed and built a location matching generator.
